@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/adamwozhere/fm-sign-up-form](https://github.com/adamwozhere/fm-sign-up-form)
+- Live Site URL: [https://adamwozhere.github.io/fm-sign-up-form/](https://adamwozhere.github.io/fm-sign-up-form/)
 
 ## My process
 
