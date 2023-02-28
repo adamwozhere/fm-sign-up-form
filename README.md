@@ -49,7 +49,7 @@ In this project I tried to test my skills with learning TypeScript and React. Le
 
 React-hook-form was also great to use as it helped with a lot of built in functions to set focus to inputs on errors etc. and it also has integration with Zod, so I could pass my Zod form schema to it to use handle the validation.
 
-I also tried to implement semantic and accessibility by using a visually hidden class for labels, and error messages with the `role="alert"` attribute.
+I also tried to implement semantic html and accessibility by using a visually hidden class for labels, and error messages with the `role="alert"` attribute.
 
 ## Author
 
